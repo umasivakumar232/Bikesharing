@@ -48,3 +48,15 @@ Great starting point I figured, **Tableau** will allow me to quickly do some ana
 
 <img width="257" alt="Weekdays" src="https://user-images.githubusercontent.com/85518330/133929674-ff70286e-dd8f-4abc-a376-5311065a997a.png">
 
+* Activity concentrated in the larger more crowded central parts of the city 
+
+<img width="308" alt="Top locations" src="https://user-images.githubusercontent.com/85518330/133929818-8c52406b-0391-4c96-ba6c-1c9dc1def9e2.png">
+
+* Evidently the most used bikes are in most need for maintainence 
+
+<img width="960" alt="Bike repair" src="https://user-images.githubusercontent.com/85518330/133930067-2140c8df-d18d-4dd6-a5c9-6b539d8cd145.png">
+
+
+
+
+

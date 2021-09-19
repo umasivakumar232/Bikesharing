@@ -30,7 +30,8 @@ The data included: Ride ID, Rideable type, Started at, Ended at, Start station n
 
 Great starting point I figured, **Tableau** will allow me to quickly do some analysis so I can surprise Kate when she wakes up. Let me pick data for August and analyse it 
 
-## Citibike Data Analysis
+
+## Citibike New York Data - Analysis
 
 * Average duration of most trip is about 20 mins 
 
@@ -55,6 +56,36 @@ Great starting point I figured, **Tableau** will allow me to quickly do some ana
 * Evidently the most used bikes are in most need for maintainence 
 
 <img width="960" alt="Bike repair" src="https://user-images.githubusercontent.com/85518330/133930067-2140c8df-d18d-4dd6-a5c9-6b539d8cd145.png">
+
+I have some insights based on the New York City bike sharing data, next I need to figure out how I can fit my findings to support my idea od starting a Bike Sharing business in Des Moines
+
+## New York vs. Des Moines
+
+Let me start by doing a basic comparison of the two cities
+
+<img width="501" alt="NYC   Des Moines a Comparison" src="https://user-images.githubusercontent.com/85518330/133930310-bf8b4b95-06e9-4c75-8892-2f2ac92ae943.png">
+
+While New York is a much larger city than Des Moines, there are a few similarities too, in fact the average commute time of 18 mins to work fits in perfectly with the avg bike trip times, the median age is younger and average unemployment is lower in Des Moines, all important support factors for our business idea
+
+What about the weather? 
+
+Relieved to note that Des Moines has more summer days and less rainfall than New York. So weather wise we are better than New York 
+
+<img width="519" alt="Weather" src="https://user-images.githubusercontent.com/85518330/133930588-494db039-d4fb-47d2-a7d4-74a87563ace9.png">
+
+What else supports my cause?
+
+Des Moines has a culture of cycling and most people travel to work from the burbs, both great supports for our bike sharing idea
+
+<img width="546" alt="RAGBRAI" src="https://user-images.githubusercontent.com/85518330/133930843-f9b86bfd-e655-4f2d-923d-2601f6ebea93.png">
+
+All in All I am convinced that Kate and I have a great idea on our hands. We just need to convince a few angel investor friends of Kate's that this is an idea who's time has come. Let me put my Tableau findings in an easy to read story for Kate and her investor friends.
+
+https://public.tableau.com/app/profile/uma.sivakumar2291/viz/CitiBike_Challenge_16319245033330/BikeSharing-DesMoines?publish=yes
+
+
+Accomplished a lot on my plane ride back, Kate will be proud of me I think :)
+
 
 
 

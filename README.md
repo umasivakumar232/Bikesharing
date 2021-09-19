@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Kate and I resolved to focus on our health this year. There is a lot going on in the world and one needs to have a healthy mind and body to deal with it. We went to New York for a short trip in August and had a time of our lives. This trip we saw parts of the city we had never seen before thanks to the fact that we decided to use **Citibikes** as our primary means of transportation. We biked everywhere upwards of 50 miles per day. This Citibikes bike sharing concept is so convinient. 
+Kate and I resolved to focus on our health this year. There is a lot going on in the world and one needs to have a healthy mind and body to deal with it. Just returning from a short trip to New York. Had a time of our lives. This trip we saw parts of the city we had never seen before thanks to the fact that we decided to use **Citibikes** as our primary means of transportation. We biked everywhere upwards of 50 miles per day. This Citibikes bike sharing concept is so convinient. 
 
 ### Bike Sharing Services - The Concept
 
@@ -15,7 +15,7 @@ The membership options range from **annual subscriptions** for as low at $15 per
 
 ### Bike Sharing - Killing Multiple Birds with One Stone
 
-In the airport on our way back to Des Moines we jumped on the weighing scales, it's customary after a holiday to see how much excess baggage we have accumulated on ourselves. typically the remorse for all the binge holiday eating starts at the airport itself, but not this time. We were ecstatic to notice that we had both lost a few pounds. Such a happy way to begin the journey back home.  
+In the airport on our way back to Des Moines we jumped on the weighing scales, it's customary after a holiday to see how much excess baggage we have accumulated on ourselves. Typically the remorse for all the binge holiday eating starts at the airport itself, but not this time. We are ecstatic to notice that we had both lost a few pounds. Such a happy way to begin the journey back home.  
 
 Kate said to me while fastening her seat belt. "Can't get over this bike sharing concept, it actually kills multiple birds with one stone". 
 
@@ -24,7 +24,7 @@ Kate said to me while fastening her seat belt. "Can't get over this bike sharing
   * Traffic friendly - Helps ease the congestion on the roads and traffic jams
   * Health benefits -  Helps busy city dwellers get exercise they need for a day 
   
-"Wouldn't it be great if we had a similar thing in Des Moines?" she said before dozing off. I don't nap on plane rides, so i spent the whole trip thinking about what she said. I quickly used the time on hand to download some publically available data on Bike Sharing from the CitiBike website. 
+"Would be great if we had a similar thing in Des Moines" she said before dozing off. I don't nap on plane rides, so I spent the whole trip thinking about what she said. I quickly used the time on hand to download some publically available data on Bike Sharing from the CitiBike website. 
 
 The data included: Ride ID, Rideable type, Started at, Ended at, Start station name, Start station ID, End station name, End station ID, Start latitude, Start longitude, End latitude, End Longitude , User Type ,Gender and Year of Birth
 
@@ -57,7 +57,7 @@ Great starting point I figured, **Tableau** will allow me to quickly do some ana
 
 <img width="960" alt="Bike repair" src="https://user-images.githubusercontent.com/85518330/133930067-2140c8df-d18d-4dd6-a5c9-6b539d8cd145.png">
 
-I have some insights based on the New York City bike sharing data, next I need to figure out how I can fit my findings to support my idea od starting a Bike Sharing business in Des Moines
+I have some insights based on the New York City bike sharing data, next I need to figure out how I can fit my findings to support my idea of starting a Bike Sharing business in Des Moines
 
 ## New York vs. Des Moines
 
@@ -69,7 +69,7 @@ While New York is a much larger city than Des Moines, there are a few similariti
 
 What about the weather? 
 
-Relieved to note that Des Moines has more summer days and less rainfall than New York. So weather wise we are better than New York 
+Relieved to note that Des Moines has similar summer days and less rainfall than New York. So weather wise we are great 
 
 <img width="519" alt="Weather" src="https://user-images.githubusercontent.com/85518330/133930588-494db039-d4fb-47d2-a7d4-74a87563ace9.png">
 
@@ -79,15 +79,25 @@ Des Moines has a culture of cycling and most people travel to work from the burb
 
 <img width="546" alt="RAGBRAI" src="https://user-images.githubusercontent.com/85518330/133930843-f9b86bfd-e655-4f2d-923d-2601f6ebea93.png">
 
-All in All I am convinced that Kate and I have a great idea on our hands. We just need to convince a few angel investor friends of Kate's that this is an idea who's time has come. Let me put my Tableau findings in an easy to read story for Kate and her investor friends.
+All in all I am convinced that Kate and I have a great idea on our hands. We just need to convince a few angel investor friends of Kate's that this is an idea who's time has come. Let me put my Tableau findings in an easy to read story for Kate and her investor friends.
 
 https://public.tableau.com/app/profile/uma.sivakumar2291/viz/CitiBike_Challenge_16319245033330/BikeSharing-DesMoines?publish=yes
-
 
 Accomplished a lot on my plane ride back, Kate will be proud of me I think :)
 
 
+### Additional Analysis that we may need 
 
+I need a few more hours and access to some more data for doing the following analysis that will complete my proposal
+ 
+ * Mapping of exisiting road routes and paths in the city of Des Moines - This will give us an idea of the investment that may be required to build some bike trails if none  exists
+ 
+ * A indepth look at the city map to figure out where the ideal locations of our bike stations will be - figure out how many we may need for adequate coverage 
 
+* A better understanding of the possible biking population who may need and use our services
+
+* A scoping of the requirements in terms of number of bikes required for adequate supply to meet needs of the biking population.
+
+Will make a dash to the public library first thing Monday to figure these out and complete my proposal
 
 

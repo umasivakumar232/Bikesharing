@@ -1,5 +1,8 @@
 # Bikesharing
 
+![citibikes-share-ride-new-york-city-parked-station-program-40537257](https://user-images.githubusercontent.com/85518330/146297009-be626ec4-1fa2-4ab0-9351-68e059195a7d.jpg)
+
+
 ## Project Overview
 
 Kate and I resolved to focus on our health this year. There is a lot going on in the world and one needs to have a healthy mind and body to deal with it. Just returning from a short trip to New York. Had a time of our lives. This trip we saw parts of the city we had never seen before thanks to the fact that we decided to use **Citibikes** as our primary means of transportation. We biked everywhere upwards of 50 miles per day. This Citibikes bike sharing concept is so convinient. 
